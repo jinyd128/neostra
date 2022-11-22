@@ -1,0 +1,6 @@
+ decimal pi = 3.14159M;
+            int r = 12;
+            decimal S = 0;
+            S = pi * r * r;
+            Console.WriteLine("圆的半径是{0},\n 圆的面积是：｛1｝" ,r,S);
+            Console.ReadKey();
